@@ -1,11 +1,11 @@
 Welcome to my github profile:👩‍💻<br>
-Name: Ukti Shrestha
-Level: Beginner/Intermediate
+Name: Ukti Shrestha <br>
+Level: Beginner/Intermediate<br>
 
-💻 Technical Skills
+💻 Technical Skills<br>
 
-• Programming Languages: JavaScript, Python, C, C++
-• Web Technologies: HTML5, CSS3, Node.js ( Very Basic)
+• Programming Languages: JavaScript, Python, C, C++<br>
+• Web Technologies: HTML5, CSS3, Node.js ( Very Basic)<br>
 • Database Management: PostgreSQL, MySQL
 
 <!--
