@@ -1,4 +1,12 @@
-## Hi there 👋
+Welcome to my github profile:👩‍💻
+Name: Ukti Shrestha
+Level: Beginner/Intermediate
+
+💻 Technical Skills
+
+• Programming Languages: JavaScript, Python, C, C++
+• Web Technologies: HTML5, CSS3, Node.js ( Very Basic)
+• Database Management: PostgreSQL, MySQL
 
 <!--
 **shresthaukti/shresthaukti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
