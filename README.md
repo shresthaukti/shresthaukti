@@ -9,13 +9,13 @@
 ## 💻 Technical Skills
 
 * **Programming Languages:**
-  <img src="https://shields.io" alt="JS"> <img src="https://shields.io" alt="Python"> <img src="https://shields.io" alt="PHP"> <img src="https://shields.io" alt="C"> <img src="https://shields.io" alt="C++">
+  <img src="https://shields.io" alt="JS">  <img src="https://shields.io" alt="Python">  <img src="https://shields.io" alt="PHP">  <img src="https://shields.io" alt="C">  <img src="https://shields.io" alt="C++">
 
 * **Web Technologies:**
-  <img src="https://shields.io" alt="HTML5"> <img src="https://shields.io" alt="CSS3"> <img src="https://shields.io" alt="Node"> *(Very Basic)*
+  <img src="https://shields.io" alt="HTML5">  <img src="https://shields.io" alt="CSS3">  <img src="https://shields.io" alt="Node"> *(Very Basic)*
 
 * **Database Management:**
-  <img src="https://shields.io" alt="Postgres"> <img src="https://shields.io" alt="MySQL">
+  <img src="https://shields.io" alt="Postgres">  <img src="https://shields.io" alt="MySQL">
 
 
 
