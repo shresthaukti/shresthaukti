@@ -5,16 +5,18 @@
 **Name:** Ukti Shrestha  
 **Level:** Beginner/Intermediate  
 
+
 ## 💻 Technical Skills
 
-* **Programming Languages:**  
-  ![JavaScript](https://shields.io) ![Python](https://shields.io) ![C](https://shields.io) ![C++](https://shields.io)
+* **Programming Languages:**
+  <img src="https://shields.io" alt="JS"> <img src="https://shields.io" alt="Python"> <img src="https://shields.io" alt="PHP"> <img src="https://shields.io" alt="C"> <img src="https://shields.io" alt="C++">
 
-* **Web Technologies:**  
-  ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![Node.js](https://shields.io) *(Very Basic)*
+* **Web Technologies:**
+  <img src="https://shields.io" alt="HTML5"> <img src="https://shields.io" alt="CSS3"> <img src="https://shields.io" alt="Node"> *(Very Basic)*
 
-* **Database Management:**  
-  ![PostgreSQL](https://shields.io)  ![MySQL](https://shields.io)
+* **Database Management:**
+  <img src="https://shields.io" alt="Postgres"> <img src="https://shields.io" alt="MySQL">
+
 
 
 <!--
