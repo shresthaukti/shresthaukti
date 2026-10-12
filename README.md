@@ -1,12 +1,21 @@
-# Welcome to my github profile:👩‍💻<br>
-Name: Ukti Shrestha <br>
-Level: Beginner/Intermediate<br>
 
-💻 Technical Skills<br>
 
-• Programming Languages: JavaScript,![Python](https://shields.io) Python, C, C++<br>
-• Web Technologies: HTML5, CSS3, Node.js ( Very Basic)<br>
-• Database Management: PostgreSQL, MySQL
+# Welcome to my github profile: 👩‍💻
+
+**Name:** Ukti Shrestha  
+**Level:** Beginner/Intermediate  
+
+## 💻 Technical Skills
+
+* **Programming Languages:**  
+  ![JavaScript](https://shields.io) ![Python](https://shields.io) ![C](https://shields.io) ![C++](https://shields.io)
+
+* **Web Technologies:**  
+  ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![Node.js](https://shields.io) *(Very Basic)*
+
+* **Database Management:**  
+  ![PostgreSQL](https://shields.io)  ![MySQL](https://shields.io)
+
 
 <!--
 **shresthaukti/shresthaukti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
