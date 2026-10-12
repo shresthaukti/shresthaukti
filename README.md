@@ -4,7 +4,7 @@ Level: Beginner/Intermediate<br>
 
 💻 Technical Skills<br>
 
-• Programming Languages: JavaScript, Python, C, C++<br>
+• Programming Languages: JavaScript,![Python](https://shields.io) Python, C, C++<br>
 • Web Technologies: HTML5, CSS3, Node.js ( Very Basic)<br>
 • Database Management: PostgreSQL, MySQL
 
