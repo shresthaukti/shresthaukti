@@ -5,28 +5,20 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 💻 Technical Skills
 
-#### 🚀 Programming Languages
-<div style="display: flex; gap: 8px; flex-wrap: wrap; margin: 10px 0;">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  <img src="https://skillicons.dev" alt="JS" height="40" style="border-radius: 8px;" />
-  <img src="https://skillicons.dev" alt="Python" height="40" style="border-radius: 8px;" />
-  <img src="https://skillicons.dev" alt="PHP" height="40" style="border-radius: 8px;" />
-  <img src="https://skillicons.dev" alt="C" height="40" style="border-radius: 8px;" />
-  <img src="https://skillicons.dev" alt="C++" height="40" style="border-radius: 8px;" />
-</div>
+* **Programming Languages:** 
+  <img src="https://skillicons.dev" height="20" valign="middle"> JavaScript, 
+  <img src="https://skillicons.dev" height="20" valign="middle"> Python, 
+  <img src="https://skillicons.dev" height="20" valign="middle"> PHP, 
+  <img src="https://skillicons.dev" height="20" valign="middle"> C, 
+  <img src="https://skillicons.dev" height="20" valign="middle"> C++
 
-#### 🌐 Web Technologies
-<div style="display: flex; gap: 8px; flex-wrap: wrap; margin: 10px 0;">
-  <img src="https://skillicons.dev" alt="HTML5" height="40" style="border-radius: 8px;" />
-  <img src="https://skillicons.dev" alt="CSS3" height="40" style="border-radius: 8px;" />
-  <img src="https://skillicons.dev" alt="Node.js" height="40" style="border-radius: 8px;" />
-</div>
-<p style="font-size: 0.9em; color: #8b949e; margin-top: -5px; margin-left: 2px;"><em>* Node.js is currently at a very basic level</em></p>
+* **Web Technologies:** 
+  <img src="https://skillicons.dev" height="20" valign="middle"> HTML5, 
+  <img src="https://skillicons.dev" height="20" valign="middle"> CSS3, 
+  <img src="https://skillicons.dev" height="20" valign="middle"> Node.js *(Very Basic)*
 
-#### 🗄️ Database Management
-<div style="display: flex; gap: 8px; flex-wrap: wrap; margin: 10px 0;">
-  <img src="https://skillicons.dev" alt="PostgreSQL" height="40" style="border-radius: 8px;" />
-  <img src="https://skillicons.dev" alt="MySQL" height="40" style="border-radius: 8px;" />
-</div>
+* **Database Management:** 
+  <img src="https://skillicons.dev" height="20" valign="middle"> PostgreSQL, 
+  <img src="https://skillicons.dev" height="20" valign="middle"> MySQL
