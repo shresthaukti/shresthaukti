@@ -1,45 +1,40 @@
+<h1 align="center">Welcome to my github profile: 👩‍💻</h1>
 
+<p align="center">
+  <strong>Name:</strong> Ukti Shrestha <br>
+  <strong>Level:</strong> Beginner/Intermediate
+</p>
 
-# Welcome to my github profile: 👩‍💻
+---
 
-**Name:** Ukti Shrestha  
-**Level:** Beginner/Intermediate  
+### 🛠️ Tech Stack
 
-## 💻 Technical Skills
+<h4 align="center">Languages</h4>
+<p align="center">
+  <img src="https://shields.io" alt="Python">
+  <img src="https://shields.io" alt="C++">
+  <img src="https://shields.io" alt="C">
+  <img src="https://shields.io" alt="JavaScript">
+  <img src="https://shields.io" alt="PHP">
+</p>
 
-* **Programming Languages:**
-  ![](https://skillicons.dev)
+<h4 align="center">Web & Frameworks</h4>
+<p align="center">
+  <img src="https://shields.io" alt="HTML5">
+  <img src="https://shields.io" alt="CSS3">
+  <img src="https://shields.io" alt="Node.js">
+</p>
 
-* **Web Technologies:**
-  ![js](https://skillicons.dev) *(Very Basic)*
+<h4 align="center">Databases</h4>
+<p align="center">
+  <img src="https://shields.io" alt="PostgreSQL">
+  <img src="https://shields.io" alt="MySQL">
+</p>
 
-* **Database Management:**
-  ![](https://skillicons.dev)
+---
 
-## 💻 Technical Skills
+### 📊 GitHub Stats
 
-* **Programming Languages:**
-  <img src="https://shields.io" alt="JS">  <img src="https://shields.io" alt="Python">  <img src="https://shields.io" alt="PHP">  <img src="https://shields.io" alt="C">  <img src="https://shields.io" alt="C++">
-
-* **Web Technologies:**
-  <img src="https://shields.io" alt="HTML5">  <img src="https://shields.io" alt="CSS3">  <img src="https://shields.io" alt="Node"> *(Very Basic)*
-
-* **Database Management:**
-  <img src="https://shields.io" alt="Postgres">  <img src="https://shields.io" alt="MySQL">
-
-
-
-<!--
-**shresthaukti/shresthaukti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://vercel.app" alt="Most Used Languages">
+</p>
