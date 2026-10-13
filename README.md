@@ -11,7 +11,7 @@
   ![](https://skillicons.dev)
 
 * **Web Technologies:**
-  ![](https://skillicons.dev) *(Very Basic)*
+  ![js](https://skillicons.dev) *(Very Basic)*
 
 * **Database Management:**
   ![](https://skillicons.dev)
