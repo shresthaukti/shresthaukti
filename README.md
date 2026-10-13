@@ -5,6 +5,16 @@
 **Name:** Ukti Shrestha  
 **Level:** Beginner/Intermediate  
 
+## 💻 Technical Skills
+
+* **Programming Languages:**
+  ![](https://skillicons.dev)
+
+* **Web Technologies:**
+  ![](https://skillicons.dev) *(Very Basic)*
+
+* **Database Management:**
+  ![](https://skillicons.dev)
 
 ## 💻 Technical Skills
 
