@@ -1,40 +1,31 @@
-<h1 align="center">Welcome to my github profile: 👩‍💻</h1>
+# Welcome to my github profile: 👩‍💻
 
-<p align="center">
-  <strong>Name:</strong> Ukti Shrestha <br>
-  <strong>Level:</strong> Beginner/Intermediate
-</p>
+**Name:** Ukti Shrestha  
+**Level:** Beginner/Intermediate  
 
 ---
 
 ### 🛠️ Tech Stack
 
-<h4 align="center">Languages</h4>
-<p align="center">
-  <img src="https://shields.io" alt="Python">
-  <img src="https://shields.io" alt="C++">
-  <img src="https://shields.io" alt="C">
-  <img src="https://shields.io" alt="JavaScript">
-  <img src="https://shields.io" alt="PHP">
-</p>
+#### 🚀 Programming Languages
+<div style="display: flex; gap: 8px; flex-wrap: wrap; margin: 10px 0;">
+  <img src="https://skillicons.dev" alt="JS" height="40" style="border-radius: 8px;" />
+  <img src="https://skillicons.dev" alt="Python" height="40" style="border-radius: 8px;" />
+  <img src="https://skillicons.dev" alt="PHP" height="40" style="border-radius: 8px;" />
+  <img src="https://skillicons.dev" alt="C" height="40" style="border-radius: 8px;" />
+  <img src="https://skillicons.dev" alt="C++" height="40" style="border-radius: 8px;" />
+</div>
 
-<h4 align="center">Web & Frameworks</h4>
-<p align="center">
-  <img src="https://shields.io" alt="HTML5">
-  <img src="https://shields.io" alt="CSS3">
-  <img src="https://shields.io" alt="Node.js">
-</p>
+#### 🌐 Web Technologies
+<div style="display: flex; gap: 8px; flex-wrap: wrap; margin: 10px 0;">
+  <img src="https://skillicons.dev" alt="HTML5" height="40" style="border-radius: 8px;" />
+  <img src="https://skillicons.dev" alt="CSS3" height="40" style="border-radius: 8px;" />
+  <img src="https://skillicons.dev" alt="Node.js" height="40" style="border-radius: 8px;" />
+</div>
+<p style="font-size: 0.9em; color: #8b949e; margin-top: -5px; margin-left: 2px;"><em>* Node.js is currently at a very basic level</em></p>
 
-<h4 align="center">Databases</h4>
-<p align="center">
-  <img src="https://shields.io" alt="PostgreSQL">
-  <img src="https://shields.io" alt="MySQL">
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://vercel.app" alt="Most Used Languages">
-</p>
+#### 🗄️ Database Management
+<div style="display: flex; gap: 8px; flex-wrap: wrap; margin: 10px 0;">
+  <img src="https://skillicons.dev" alt="PostgreSQL" height="40" style="border-radius: 8px;" />
+  <img src="https://skillicons.dev" alt="MySQL" height="40" style="border-radius: 8px;" />
+</div>
