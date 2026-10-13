@@ -9,6 +9,7 @@
 
 #### 🚀 Programming Languages
 <div style="display: flex; gap: 8px; flex-wrap: wrap; margin: 10px 0;">
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   <img src="https://skillicons.dev" alt="JS" height="40" style="border-radius: 8px;" />
   <img src="https://skillicons.dev" alt="Python" height="40" style="border-radius: 8px;" />
   <img src="https://skillicons.dev" alt="PHP" height="40" style="border-radius: 8px;" />
