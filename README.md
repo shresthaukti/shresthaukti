@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shresthaukti&color=8b5cf6&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/shresthaukti?style=for-the-badge&color=ec4899&labelColor=1f2937)
-![Repos](https://img.shields.io/github/repositories/shresthaukti?style=for-the-badge&color=3b82f6&labelColor=1f2937)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/shresthaukti&query=$.public_repos&label=REPOS&style=for-the-badge&color=3b82f6&labelColor=1f2937)
 
 </div>
 
