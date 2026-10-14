@@ -8,8 +8,6 @@
 
 <br>
 
-
-![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/shresthaukti&query=$.public_gists&label=GISTS&style=for-the-badge&color=8b5cf6&labelColor=1f2937)
 ![Followers](https://img.shields.io/github/followers/shresthaukti?style=for-the-badge&color=ec4899&labelColor=1f2937)
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/shresthaukti&query=$.public_repos&label=REPOS&style=for-the-badge&color=3b82f6&labelColor=1f2937)
 
@@ -47,7 +45,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shresthaukti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shresthaukti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true" />
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresthaukti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 <br>
