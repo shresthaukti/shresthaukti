@@ -51,7 +51,7 @@
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=shresthaukti&theme=tokyonight&hide_border=true&background=0d1117&refresh=2" />
+<img src="https://streak-stats.demolab.com?user=shresthaukti&theme=tokyonight&hide_border=true&background=0d1117&refresh=3" />
 
 </div>
 
