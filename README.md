@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ukti%20Shrestha&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Beginner%20%2F%20Intermediate%20Developer&descSize=18&descAlignY=68" width="100%" />
 
@@ -46,6 +46,15 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=shresthaukti&theme=tokyonight&hide_border=true&background=0d1117&refresh=4" />
+
+<br>
+
+<img height="200" src="https://raw.githubusercontent.com/shresthaukti/shresthaukti/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+
+<br>
+
+<img height="180" src="https://raw.githubusercontent.com/shresthaukti/shresthaukti/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+<img height="180" src="https://raw.githubusercontent.com/shresthaukti/shresthaukti/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
 
 </div>
 
