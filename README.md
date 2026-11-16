@@ -49,10 +49,6 @@
 
 <br>
 
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shresthaukti&theme=tokyonight" />
-
-<br>
-
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shresthaukti&theme=tokyonight" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shresthaukti&theme=tokyonight" />
 
