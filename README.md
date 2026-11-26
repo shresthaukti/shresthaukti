@@ -54,4 +54,16 @@
 
 </div>
 
+---
+
+<h2 align="center">📫 Contact</h2>
+
+<div align="center">
+
+<a href="mailto:shrestha5738u@gmail.com">shrestha5738u@gmail.com</a>
+&nbsp;•&nbsp;
+<a href="https://www.linkedin.com/in/ukti-shrestha-1194a5364">in/ukti-shrestha-1194a5364</a>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
